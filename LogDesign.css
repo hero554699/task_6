@@ -38,7 +38,7 @@ body {
  .btn {
     display: black;
     width: 50%;
-    margin: 20px auto;
+    margin: 40px auto;
     padding: 10px;
     background-color:#4CAF50;
     color:white;
@@ -54,4 +54,5 @@ body {
  .link {
     color:#4CAF50;
     text-decoration: none;
+
  }
