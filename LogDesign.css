@@ -38,8 +38,8 @@ body {
  .btn {
     display: black;
     width: 50%;
-    margin: 40px auto;
-    padding: 10px;
+    margin: 45px auto;
+    padding: 15px;
     background-color:#4CAF50;
     color:white;
     text-align:center;
@@ -56,3 +56,4 @@ body {
     text-decoration: none;
 
  }
+
